@@ -1,0 +1,38 @@
+body {
+  font-family: Georgia, "Times New Roman", sans-serif;
+  font-size: 17px;
+  background-color: rgb(221, 206, 186);
+  line-height: 1.5;
+  margin-left: 20em;
+  margin-right: 40em;
+  font-weight: bold;
+  color: rgb(112, 16, 16);
+}
+
+h1 {
+  color: black;
+}
+
+.image {
+  width: 20rem;
+  height: auto;
+}
+
+.subheading {
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.subheading span {
+  border-bottom: 4px solid black;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 8px;
+  padding-left: 8px;
+  color: rgb(112, 16, 16);
+  background-color: rgb(38, 202, 106);
+}
+
+.steps li {
+  padding-bottom: 10px;
+}

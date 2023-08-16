@@ -1,1 +1,1 @@
-# The Odin Project - Recipes Website
+A Simple Recipes Website
